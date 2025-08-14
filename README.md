@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thixz or Thiago da Costa in real life :)
   
-- 👀 I’m interested in React Native, Node.JS , .NET and AI development.
+- 👀 I’m interested in React, React Native, Node.JS , .NET and AI development.
   
-- 🌱 I’m currently learning React Native, Node.JS, TypeScript and python for AI programming.
+- 🌱 I’m currently learning React, React Native, Node.JS, TypeScript and python for AI programming.
   
 - 💞️ I’m looking to collaborate on open React Native and .NET projects.
   
